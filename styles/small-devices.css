@@ -1,0 +1,30 @@
+.card-group {
+    max-height: 750px;
+    margin: 0% 5%;
+}
+.card {
+    padding: 2rem;
+}
+.first-card {
+    border-top-right-radius: 2%;
+    border-bottom-left-radius: 0%;
+}
+.third-card {
+    background-color: hsl(179, 100%, 13%);
+    margin-bottom: 5%;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+}
+.card > p {
+    width: 88%;
+    min-height: 100px;
+    max-height: 200px;
+}
+h1 {
+    padding: 10px 0 10px 0;
+}
+.btn {
+    width: 72%;
+    margin-top: 5%;
+    padding: 0.60rem 0.75rem;
+}
