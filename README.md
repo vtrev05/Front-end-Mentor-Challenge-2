@@ -9,7 +9,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/vtrev05/Front-end-Mentor-Challenge-2)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://vtrev05.github.io/Front-end-Mentor-Challenge-2/)
 
 ## My process
 
